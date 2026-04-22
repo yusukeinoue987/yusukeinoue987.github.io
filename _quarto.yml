@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "yusukeinoue987.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+
+    toc: true
+
+
+
