@@ -2,8 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "yusukeinoue987.github.io",
+    "title": "Welcome to Yusuke Inoue’s website!!",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I’m interested in supernovae and stellar evolutions."
+  },
+  {
+    "objectID": "curriculum_vitae.html",
+    "href": "curriculum_vitae.html",
+    "title": "CV",
+    "section": "",
+    "text": "I’m a 2nd year phd student at University now."
   }
 ]
