@@ -1,5 +1,5 @@
 ---
-title: "yusukeinoue987.github.io"
+title: "Yusuke Inoue (井上　裕介)"
 ---
 
 This is a Quarto website.

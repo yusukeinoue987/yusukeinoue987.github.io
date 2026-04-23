@@ -3,20 +3,31 @@ project:
   output-dir: docs
 
 website:
+  # title: "Yusuke Inoue"
   title: "yusukeinoue987.github.io"
   navbar:
+    background: dark
     left:
       - href: index.qmd
         text: Home
+      - research.qmd
+      - curriculum_vitae.qmd
+      - publications.qmd
+      - presentations.qmd
 
 
 format:
   html:
     theme:
-      - cosmo
+      # - cosmo
+      - journal
       - brand
-
+    # include-in-header: font.html
+    include-in-header: noindex.html
+    mainfont: Noto Sans JP, Helvetica Neue, Arial, Hiragino Kaku Gothic ProN, Hiragino Sans, BIZ UDPGothic, Meiryo, sans-serif
     toc: true
+
+lang: ja
 
 
 
