@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Yusuke Inoue’s website!!",
+    "title": "Yusuke Inoue (井上　裕介)",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
@@ -18,6 +18,20 @@
     "href": "curriculum_vitae.html",
     "title": "CV",
     "section": "",
-    "text": "I’m a 2nd year phd student at University now."
+    "text": "井上 裕介 博士課程学生\n京都大学 宇宙物理学教室 〒606-8502 京都市左京区北白川追分町 京都大学吉田キャンパス 理学部4号館\n略歴\n受賞歴\n国際学術雑誌の査読 (レフェリー)\n研究費・外部資金"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Lead-author papers\nco-author papers"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "International Conferences Contributed talks Posters\nDomestic Conferences Contributed talks Posters"
   }
 ]
