@@ -2,6 +2,15 @@
 title: "Publications"
 ---
 
-Lead-author papers
+# First-Authoured
 
-co-author papers
+1. **Inoue**, **Y**., Maeda, K., Nagao, T., Matsumoto, T. (2026). Formation of Circumstellar Material during Double-white-dwarf Mergers and the Early Excess Emissions in Type Ia Supernovae, The Astrophysical Journal, 997:312 (10pp) [[Publisher](https://doi.org/10.3847/1538-4357/ae2de7)] [[ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..312I/abstract)]
+
+2. **Inoue, Y.** and Maeda, K. (2025). Insights into the Properties of Type Ibn/Icn Supernovae and Their Progenitor Channels
+through X-Ray Emission, The Astrophysical Journal, 980:86 (14pp) [[Publisher](https://doi.org/10.3847/1538-4357/ad9de6)] [[ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...980...86I/abstract)]
+
+---
+
+# Co-Authoured
+
+1. Sawada, R., **Inoue, Y.**, Ashida. Y. in preparation. Interaction-powered Type Ibn Supernovae as a Transient PeVatron Candidate: The Case of SN 2023uqf, [[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260412496S/abstract)]

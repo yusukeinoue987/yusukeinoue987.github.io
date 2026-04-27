@@ -2,4 +2,25 @@
 title: "Research"
 ---
 
-I'm mmmmmm interested in supernovae and stellar evolutions.
+主に恒星の進化と、その終焉の一形態である超新星爆発に関する理論研究を行っています。超新星爆発の観測データには、爆発メカニズムや元の恒星に関する情報が豊富に含まれています。私は理論計算と観測データを照合することで、恒星の進化と爆発現象の謎を解明することを目指しています。また関連して衝撃波での粒子加速といった高エネルギー現象にも興味を持っています。
+
+:::{layout-ncol=3}
+![星周物質と衝突して光る超新星(Credit: Kavli IPMU), 関連論文: [Inoue & Maeda (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJ...980...86I/abstract)](figs/shock-powered-supernova.webp){width="200px"}
+
+![二重白色矮星連星(Credit: NASA/GSFC/Dana Berry), 関連論文: [Inoue et al. (2026)](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..312I/abstract)](figs/white-dwarf-stars.jpg){width="200px"}
+
+![高エネルギーニュートリノ検出機Icecube(Credit: IceCube Collaboration/NSF), 関連論文: [Sawada, Inoue & Ashida in prep.](https://ui.adsabs.harvard.edu/abs/2026arXiv260412496S/abstract)](figs/icecube_detector.jpg){width="200px"}
+:::
+
+<!-- 
+### 重力崩壊型超新星
+大量の星周物質と衝突して光る重力崩壊型超新星
+Image credit: NASA/JPL-Caltech
+
+### Ia型超新星
+わずかな星周物質の兆候を見せるIa型超新星が報告されています。
+Image credit: NASA/JPL-Caltech
+
+### 高エネルギーニュートリノ
+宇宙から届く高エネルギーニュートリノの招待はわかっていません。
+Image credit: NASA/JPL-Caltech -->

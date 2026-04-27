@@ -2,11 +2,58 @@
 title: "Presentations"
 ---
 
-International Conferences
-Contributed talks
-Posters
+# 今後の予定
+(International Conference, Postar) 
+European astronomical society annual meeting 2026, SwissTech Convention Center, Lausanne, Switzerland, 2026/06/29-07/03 [website](https://eas.unige.ch/EAS2026/)
 
+(Seminar) 
+Institute of Astronomy and Astrophysics, Academia Sinica, Taipei, Taiwan, 2026/05
 
-Domestic Conferences
-Contributed talks
-Posters
+(Seminar) 
+CHIPS code development group, online, 2026/06
+
+---
+
+# International Conferences
+## Contributed talks
+1. CSM formation in White-dwarfs merger system and early excess emission of Type Ia Supernovae, 3rd Finland-Japan bilateral meeting on extragalactic transients, Kyoto University, Kyoto, Japan, 2025/05/19-20 [Website](https://supernova-theory.wixsite.com/japan-finland-sn3/schedule)
+
+1. Toward understanding the progenitor channels to SNe Ibn/Icn: X-ray modeling of their SN-CSM interaction, Supernova Remnants III: an odyssey in space after stellar death, Minoa Palace Luxury Resort & Spa, Chania, Greece, 2024/06/09-15 [Website](https://snr2024.astro.noa.gr/)
+
+1. Broad band X-ray light curve prediction for revealing CSM and Explosion properties of SNe Ibn/Icn, 2nd Finland-Japan bilateral meeting on extragalactic transients, Turku University, Turku, Finland, 2023/11/20-21 [Website](https://supernova-theory.wixsite.com/japan-finland-sn2/schedule)
+
+## Posters
+Coming soon
+
+---
+
+# Domestic Conferences
+## Contributed talks
+1. Probing CSM geometry through color temperature in CSM-interacting supernovae, 第1回 CHIPS研究会, KKRホテルびわこ, 滋賀, 2026/1/24-26
+
+1. Modeling for precursor emission of Type Ibn supernovae: the origin is He-nova?, Transient&Supernova workshop 2025, 熱海温泉ホテル・サンミ倶楽部, 静岡, 2025/11/05-07 [website](https://sites.google.com/view/snworkshop2025/)
+
+1. 二重白色矮星連星合体直前に形成される星周物質とIa型超新星の初期放射の起源, 日本天文学会2025年秋季年会, 海峡メッセ下関, 山口, 2025/09/09-11 [Website](https://www.asj.or.jp/nenkai/archive/2025b/)
+
+1. CSM formation in double WD system: Toward understanding the diversity of peculiar SNe Ia, Transient&Supernova workshop 2024, ホテルリステル猪苗代, 福島, 2024/11/06-08 [Website](https://sites.google.com/view/snws2024)
+
+1. Implication for X-ray observation of SNe Ibn/Icn based on light curve modeling, Transient&Supernova workshop 2023, ホテルウェルビューかごしま, 鹿児島, 2023/12/18-21 [Website](https://sites.google.com/view/snws2023kagoshima)
+
+1. 光度曲線に基づくIc型超新星のCSM構造の推定, 第53回天文・天体物理若手夏の学校, 東京大学, 東京, 2023/08/01-04 [Website](https://astro-wakate.sakura.ne.jp/ss2023/)
+
+## Posters
+1. Ibn/Icn型超新星の親星進化解明に向けたX線・電波光度曲線計算, 第54回天文・天体物理若手夏の学校, 賢島 宝生苑, 三重, 2024/07/23-26 [Website](https://astro-wakate.sakura.ne.jp/ss2024/)
+
+1. SNe Ibn/Icnの爆発・星周物質特性の解明に向けたX-ray light curve計算, 第36回理論懇シンポジウム, 弘前大学, 青森, 2023/12/25-27 [Website](https://www.hirosaki-u.ac.jp/events/90975/)
+
+---
+
+# Seminars
+1. 高エネルギー天体グループ, 東京大学(柏), 千葉
+
+---
+
+# Other activities
+1. LSST Summer School: The landscape of astronomical transients, Flatiron institute, NewYork, US, 2025/07/28-08/08 [website](https://www.simonsfoundation.org/event/cca-summer-school-2025-the-landscape-of-astronomical-transients/)
+
+1. Cloudy Workshop 2024, JAXA ISAS, Tokyo, Japan, 2024/08/05-09 [website](https://xrsrv1.isas.jaxa.jp/event/4/overview)
